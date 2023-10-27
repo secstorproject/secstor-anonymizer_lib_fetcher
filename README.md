@@ -1,4 +1,9 @@
-﻿# Anonymizer Lib Fetcher 🕵️‍♂️
+> **Projeto:** Aplicação de algoritmos de compartilhamento de segredos e anonimização de dados para adequação de sistemas à LGPD - Edital FAPESC 27/2021.
+
+![LGPD](https://img.shields.io/badge/-LGPD-blue)
+![FAPESC](https://img.shields.io/badge/Edital-FAPESC%2027%2F2021-green)
+ 
+ # Anonymizer Lib Fetcher 🕵️‍♂️
 
 Este projeto captura tempos de execução de diferentes técnicas de anonimização de dados aplicadas a um conjunto de dados escolhido, baseado no parâmetro de carga especificado, usando uma biblioteca secstor-anonymizer_lib.
 
